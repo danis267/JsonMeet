@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290946726955",
+    "firebase_url": "https://json-meet.firebaseio.com",
+    "project_id": "json-meet",
+    "storage_bucket": "json-meet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290946726955:android:e12c24f07d1a1ca04d3e6e",
+        "android_client_info": {
+          "package_name": "com.example.jsonmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290946726955-2qhk4r75ugm2chqlctvkjt5bdkrt1gok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDERMLzUavPlJHBruxa53GeDgp6oE8niVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290946726955-2qhk4r75ugm2chqlctvkjt5bdkrt1gok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
